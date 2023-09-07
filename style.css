@@ -1,0 +1,171 @@
+body
+{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: 'poppins', sans-serif;
+}
+.container{
+    display: flex;
+width: 1468px;
+padding: 148px 466px;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+gap: 26px;
+border: 1px solid #000;
+background: #3B4664;
+
+}
+h5{
+    color: #FFF;
+font-family: Inter;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 15px;
+}
+.display {
+    width: 500px;
+    height: 142.728px;
+    text-align:end;
+    border-radius: 12px;
+    background: #181F32;
+    font-size: 45px;
+    padding : 20px;
+    color:#EAE3DB;
+
+}
+.keys{
+    width: 536px;
+    height: 487px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background: #252D44;
+}
+.row1{
+    display: flex;
+height: 60px;
+align-items: flex-start;
+gap: 22px;
+margin-top: 48px;
+margin-left: 35px;
+
+}
+.btn{
+    border-radius: 12px;
+    background: #EAE3DB;
+    width: 100px;
+    height: 60px;
+    flex-shrink: 0;
+}
+
+.row2{
+    display: flex;
+height: 60px;
+align-items: flex-start;
+gap: 22px;
+margin-top: 23px;
+margin-left: 35px;
+}
+
+.row3{
+    display: flex;
+height: 60px;
+align-items: flex-start;
+gap: 22px;
+margin-top: 23px;
+margin-left: 35px;
+}
+.row4{
+    display: flex;
+height: 60px;
+align-items: flex-start;
+gap: 22px;
+margin-top: 23px;
+margin-left: 35px;
+}
+.row5{
+    display: flex;
+height: 60px;
+align-items: flex-start;
+gap: 22px;
+margin-top: 23px;
+margin-left: 35px;
+}
+#equals{
+    width: 222.436px;
+height: 60px;
+flex-shrink: 0;
+border-radius: 11.524px;
+background: #D13F30;
+}
+.row5 .btn{
+    width: 222.436px;
+height: 60px;
+flex-shrink: 0;
+border-radius: 11.524px;
+background: #647299;
+
+}
+.btn p{
+    color: white;
+    text-align: center;
+   font-family: Inter;
+   font-size: 23.048px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: normal;
+   margin-top: 13px;
+}
+.row4 .btn p{
+   
+color: #3B4664;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.row3 .btn p{
+   
+    color: #3B4664;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.row2 .btn p{
+   
+    color: #3B4664;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    
+}
+.row1 .btn p{
+   
+    color: #3B4664;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    
+}
+.row1 #del{
+    background-color: #647299;;
+}
+.row1 .btn p span{
+    color: #FFF;
+}
+
